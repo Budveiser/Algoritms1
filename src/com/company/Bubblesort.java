@@ -13,6 +13,8 @@ public class Bubblesort {
                     array[i] = array[i + 1];
                     array[i + 1] = temp;
                     System.out.println("hello");
+                    System.out.println("hello32");
+                    System.out.println("hello3");
                 }
             }
         }

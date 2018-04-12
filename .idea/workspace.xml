@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc0b4cd-a594-404d-8f80-573b3df87e27" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Algoritms1/.idea/vcs.xml" />
+    <list default="true" id="4bc0b4cd-a594-404d-8f80-573b3df87e27" name="Default" comment="ver.2">
       <change beforePath="$PROJECT_DIR$/../Algoritms1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Algoritms1/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../Algoritms1/src/com/company/Bubblesort.java" afterPath="$PROJECT_DIR$/../Algoritms1/src/com/company/Bubblesort.java" />
     </list>
@@ -39,8 +38,8 @@
       <file leaf-file-name="Bubblesort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Algoritms1/src/com/company/Bubblesort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -180,6 +179,14 @@
       <option name="presentableId" value="Default" />
       <updated>1523552549350</updated>
     </task>
+    <task id="LOCAL-00001" summary="ver.2">
+      <created>1523552837400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523552837400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -216,6 +223,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ver.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver.2" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -239,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Algoritms1/src/com/company/Bubblesort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="272">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
       </provider>
